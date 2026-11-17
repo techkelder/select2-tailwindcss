@@ -20,7 +20,7 @@ npm install -g live-server
 To make a working test on your local dev environment, clone this repository and install the dependencies: 
 
 ```bash
-git clone https://github.com/Xibel/select2-tailwindcss.git
+git clone https://github.com/techkelder/select2-tailwindcss.git
 cd select2-tailwindcss
 npm install
 ```
